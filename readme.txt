@@ -1,8 +1,5 @@
-git is a version control system
-git is free software
-
-
-git commit -m"wrote a readme file"
-
+git is a distributed version control system
+git is free software distributed under the GPL
+git has a mutable index called stage
 
 
